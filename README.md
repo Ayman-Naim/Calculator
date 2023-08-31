@@ -1,41 +1,19 @@
-# Little Lemon Food Ordering App
-it's the final project of Meta iOS Developer Professional Certificate
+# simple Calcultor
+it's the final project of ios using objective c at ITI
 
-Its an app that allow the users to order from menu 
-
+Its an app that allow the users make simple calulations
 
 ## vedio Demo : 
 
 
 
-<img src="https://github.com/Ayman-Naim/little-Lemon/blob/main/screen/deom.gif">
+<img src="https://github.com/Ayman-Naim/Calculator/blob/main/screen/demo.gif">
 
 
-## Features
- - [x] login Screen with data entry
- - [x] Home screen that have multiple sections
- - [x] profile page that have his personal info
- - [x] save profile info and change it
- - [x] log out button
 
-
-## Wireframe
-![](screen/Wirefrane.png)
 
 ## screenshots:
 
 
-![](screen/login.png)
-
-
-![](screen/home.png)
-
-
-![](screen/Detailed.png)
-
-
-![](screen/userpage.png)
-
-
-
+![](screen/0.png)
 
