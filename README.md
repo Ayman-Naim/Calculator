@@ -1,5 +1,5 @@
 # simple Calcultor
-it's the final project of ios using objective c at ITI
+it's a project of ios using objective c at ITI
 
 Its an app that allow the users make simple calulations
 
